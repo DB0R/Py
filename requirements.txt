@@ -1,1 +1,4 @@
-pip install user_agent
+user_agent
+os
+time
+sys
